@@ -38,7 +38,7 @@ public class Investigation {
     private Timestamp timestamp;
 
     public String getType() {
-        return name.substring(0, name.length() - 5);
+        return name.substring(0, name.length() - 5).toUpperCase();
     }
 
     public String getDiagnostics() {
