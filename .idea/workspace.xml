@@ -2,30 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4c33f1ba-ee31-4879-8fdd-b9c063a79348" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/medical/iot/platform/entities/Comment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/medical/iot/platform/repositories/CommentRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/3469a1e8fc02494f8bfe3a31496273999224136b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/1/6191a99a39d2b041d7133aa36055d19589a74acd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/67af564cb854cce62bba72831e210754a1fb50c5" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/e/7e316e0d0dfe5523568bfecbe78d19fddd7ee559" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8c4183f117b9e6abe97fe518c97d8dbabb80ce10" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/6/c640cd8b1de5b4a23e8524393e976929c028353c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/6/d6c89452ce37f820ad06152c16bf53cb19dd68ef" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/7/d7b95f8d82ee52acff04e0caaad8fec7d5b41c93" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f33c3359386b35d09b70cfb7da6eaeb813cde846" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/medical/iot/platform/controllers/MainController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/medical/iot/platform/controllers/MainController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/medical/iot/platform/entities/Diagnostic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/medical/iot/platform/entities/Diagnostic.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/addDiagnostic.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/addDiagnostic.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/main.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/main.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data.sql" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/data.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/medical/iot/platform/controllers/MainController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/medical/iot/platform/controllers/MainController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/medical/iot/platform/entities/Diagnostic$DiagnosticBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/medical/iot/platform/entities/Diagnostic$DiagnosticBuilder.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/medical/iot/platform/entities/Diagnostic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/medical/iot/platform/entities/Diagnostic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/medical/iot/platform/entities/Investigation.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/medical/iot/platform/entities/Investigation.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -55,7 +32,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
+      <file leaf-file-name="application.properties" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -91,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="addDiagnostic.jsp" pinned="false" current-in-tab="true">
+      <file leaf-file-name="addDiagnostic.jsp" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/webapp/addDiagnostic.jsp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="349">
-              <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+            <state relative-caret-position="179">
+              <caret line="34" column="70" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
             </state>
           </provider>
         </entry>
@@ -207,8 +184,8 @@
         <option value="$PROJECT_DIR$/src/main/webapp/main.jsp" />
         <option value="$PROJECT_DIR$/src/main/java/medical/iot/platform/entities/Comment.java" />
         <option value="$PROJECT_DIR$/src/main/java/medical/iot/platform/controllers/MainController.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/webapp/addDiagnostic.jsp" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
       </list>
     </option>
   </component>
@@ -516,7 +493,7 @@
       <workItem from="1567540451436" duration="471000" />
       <workItem from="1567541235909" duration="6707000" />
       <workItem from="1567600654812" duration="16590000" />
-      <workItem from="1567724613332" duration="3248000" />
+      <workItem from="1567724613332" duration="3574000" />
     </task>
     <task id="LOCAL-00001" summary="design changes">
       <created>1559251186824</created>
@@ -529,7 +506,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62568000" />
+    <option name="totallyTimeSpent" value="62894000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -562,10 +539,10 @@
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Version Control" order="13" weight="0.32963374" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963374" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32963374" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32963374" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2739872" />
       <window_info anchor="right" id="Bean Validation" order="8" />
       <window_info id="Web" order="6" side_tool="true" />
       <window_info anchor="bottom" id="SonarLint" order="11" />
@@ -803,13 +780,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="38" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/main.jsp">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -819,8 +789,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/webapp/addDiagnostic.jsp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="349">
-          <caret line="53" column="54" selection-start-line="53" selection-start-column="54" selection-end-line="53" selection-end-column="54" />
+        <state relative-caret-position="179">
+          <caret line="34" column="70" selection-start-line="34" selection-start-column="70" selection-end-line="34" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="38" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>
