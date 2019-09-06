@@ -24,6 +24,7 @@
                     <td>Investigation Time</td>
                     <td>Investigation Result</td>
                     <td>Investigation Diagnostics</td>
+                    <td>Action</td>
                 </tr>
                 </thead>
                 <tbody>
@@ -34,6 +35,10 @@
                         <td>${investigation.timestamp}</td>
                         <td><a href="./resources/images/${investigation.name}"  target="_blank"><img src="./resources/images/${investigation.name}" alt="" border="0" height="120px"/></a></td>
                         <td>${investigation.getDiagnostics()}</td>
+                        <td>
+                            <a class="btn btn-info" href="./addDiagnostic?id=${investigation.getId()}"><i
+                                    class="fa fa-plus"></i> Add comment</a>
+                        </td>
                     </tr>
                 </c:forEach>
                 </tbody>
@@ -48,7 +53,7 @@
                     <td>Investigation Time</td>
                     <td>Investigation Result</td>
                     <td>Investigation Diagnostics</td>
-                    <td>Add Diagnostic</td>
+                    <td>Action</td>
                 </tr>
                 </thead>
                 <tbody>
@@ -60,10 +65,8 @@
                         <td><img src="./resources/images/${investigation.name}" alt="" border="0" height="120px"/></td>
                         <td>${investigation.getDiagnostics()}</td>
                         <td>
-                            <c:if test="${SESSION_USER.isUserDoctor()}">
-                                <a class="btn btn-info" href="./addDiagnostic?id=${investigation.getId()}"><i
-                                        class="fa fa-plus"></i></a>
-                            </c:if>
+                            <a class="btn btn-info" href="./addDiagnostic?id=${investigation.getId()}"><i
+                                    class="fa fa-plus"></i> Add diagnostic</a>
                         </td>
                     </tr>
                 </c:forEach>

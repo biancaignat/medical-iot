@@ -1,8 +1,0 @@
-
-ksquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–û‚ùÿÿÿÿ8İĞÈÏ-
-ksquid:S4488@"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ïşÒÊûÿÿÿÿ8‹Ú‹ÉÏ-
-ksquid:S44888"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(°¢ÆŸúÿÿÿÿ8ŠÇ§ÈÏ-
-Xsquid:S2441.":Make "User" serializable or don't store it in the session.(¼Š©8ÙÏÁÈÏ-
-dsquid:S1192"FDefine a constant instead of duplicating this literal "login" 3 times.(Íı‡Ç8ó¿ÁÈÏ-
-msquid:S4488!"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ãèïûÿÿÿÿ8Àî§ÈÏ-
-isquid:UselessImportCheck"9Remove this unused import 'org.springframework.ui.Model'.(ê†ıÿÿÿÿ8Š™ÉÏ-

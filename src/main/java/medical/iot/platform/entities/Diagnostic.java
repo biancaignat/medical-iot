@@ -30,6 +30,14 @@ public class Diagnostic {
     @JoinColumn(name = "investigation_id")
     private Investigation investigation;
 
+    @OneToMany(
+            mappedBy = "diagnostic",
+            cascade = CascadeType.ALL,
+            orphanRemoval = true,
+            fetch = FetchType.LAZY
+    )
+    private List<Comment> commentList;
+
     @Column(columnDefinition="Timestamp default current_timestamp")
     private Timestamp timestamp;
 }

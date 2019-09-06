@@ -1,0 +1,11 @@
+
+ksquid:S4488C"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(°¢ÆŸúÿÿÿÿ8òş¢ëÏ-
+dsquid:S1192)"FDefine a constant instead of duplicating this literal "login" 3 times.(Íı‡Ç8òş¢ëÏ-
+ksquid:S4488$"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(–û‚ùÿÿÿÿ8òş¢ëÏ-
+msquid:S4488,"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ãèïûÿÿÿÿ8òş¢ëÏ-
+psquid:S2441I"MMake "List" and its parameters serializable or don't store it in the session.(œàÖûÿÿÿÿ8 ¼…ìÏ-
+hsquid:S4488b"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ûÉë½8Çğ£ëÏ-
+fsquid:S2441]"CMake "Investigation" serializable or don't store it in the session.(È±ÉÅûÿÿÿÿ8³ìóëÏ-
+fsquid:S4488S"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ì‰Øš8Çğ£ëÏ-
+ksquid:S4488M"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ïşÒÊûÿÿÿÿ8òş¢ëÏ-
+Xsquid:S24419":Make "User" serializable or don't store it in the session.(¼Š©8³ìóëÏ-
